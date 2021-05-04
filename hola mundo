@@ -1,0 +1,2 @@
+nombre = input("ingrese su primer nombre ")
+print ( f"HOLA MUNDO MI NOMBRE ES {nombre})
